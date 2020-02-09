@@ -1,2 +1,4 @@
 # hello-world
-This is just a demo repo
+This is created a just for demo purpose. 
+My name is Nashath; am a software engineer working in an investment bank. 
+
